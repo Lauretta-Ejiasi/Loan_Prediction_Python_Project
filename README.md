@@ -20,9 +20,9 @@ I used sklearn for data mining and machine learning (ML) algorithms. The scikit-
 
 In this project, i built a decision tree model to predict whether an applicant is eligible for the loan or not based on the given applicant's information. To achieve this, i first performed some data analysis and data pre-processing, which includes dealing with missing values and outliers values that appear in the dataset and i used sklearn to build decision tree classifier.
 
-The Dataset was extracted from:
+**The Dataset was extracted from:**
 Loan - https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
 (https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement)
 
-And, Below is the link to the Project Jupyter notebook
+**And, Below is the link to the Project Jupyter notebook**
 http://localhost:8888/notebooks/Loan%20Prediction%20Project.ipynb
